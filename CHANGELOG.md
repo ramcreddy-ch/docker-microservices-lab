@@ -4,3 +4,4 @@
 - Fix minor typos (2020-4-23 12:30:00)
 - Update dependencies (2020-8-7 12:40:00)
 - Add inline comments for clarity (2020-3-5 13:50:00)
+- Enhance error handling (2020-5-9 12:05:00)
