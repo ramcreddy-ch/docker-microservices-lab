@@ -2,3 +2,4 @@
 - Refactor configuration files (2020-8-23 15:10:00)
 - Optimize script performance (2020-9-26 9:20:00)
 - Fix minor typos (2020-4-23 12:30:00)
+- Update dependencies (2020-8-7 12:40:00)
