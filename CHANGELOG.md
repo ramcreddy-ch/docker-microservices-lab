@@ -9,3 +9,4 @@
 - Refactor variable names (2020-2-5 14:25:00)
 - Improve logging verbosity (2020-3-21 13:35:00)
 - Patch security vulnerability (2020-8-5 11:45:00)
+- Fix edge case in logic (2020-8-12 9:55:00)
